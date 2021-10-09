@@ -1,7 +1,10 @@
 ## Initial Steps
 git clone
+
 checkout to uat branch
+
 copy cypess.example.json to cypress.env.json
+
 npm init
 
 ### Test Data generation
