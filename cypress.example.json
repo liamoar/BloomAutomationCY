@@ -1,0 +1,28 @@
+{
+    "uat": {
+        "url": ""
+    },
+    "dev": {
+        "admin": {
+            "url": "xyz",
+            "username": "xyz",
+            "password":"xyz"
+        },
+        "client": {
+            "url": "xyz",
+            "username": "xyz",
+            "password":"xyz"
+        },
+        "user": {
+            "url": "xyz",
+            "username": "xyz",
+            "password":"xyz"
+        }
+    },
+    "live": {},
+    "currentURL": "dev",
+    "currentAPI": "dev",
+    "faker": true,
+    "clientRegister": true,
+    "userRegister": true
+}

@@ -1,0 +1,18 @@
+{
+    "companyName": "Advanced Tech",
+    "shortDescription": "Hello",
+    "registrationPageTitle": "Hello world",
+    "slug": "hello",
+    "position": 12,
+    "location": "Nepal",
+    "description": "this is a new company",
+    "linkText": "helloworld",
+    "sharingPermission": "now",
+    "domainCheck": true,
+    "domain": "mailinator.com",
+    "IP_address": "192.178.9.0",
+    "username": "Hello",
+    "email": "random123@mailinator.com",
+    "passwordMethod": "setPassword",
+    "password": "random123"
+}

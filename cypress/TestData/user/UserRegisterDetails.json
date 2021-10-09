@@ -1,0 +1,22 @@
+{
+    "lastName": "Joshi",
+    "firstName": "Reetik",
+    "SEI": "Joshi",
+    "MEI": "Reetik",
+    "DOB": {
+        "year": "1997",
+        "month": "12",
+        "day": "29"
+    },
+    "email": "reetikjoshi2020@mailinator.com",
+    "password": "reetik",
+    "graduation_school_name": "High School",
+    "graduation_faculty_name": "Engineering",
+    "graduation_year": "2019",
+    "most_recently_registered_company_name": "Ekbana",
+    "years_of_enrollment": 2,
+    "recent_income": 155,
+    "experienced_companies": 2,
+    "job_offer": "Ea aliquam vel aut.",
+    "concerns": "Aut omnis aut est consequuntur repellendus."
+}
